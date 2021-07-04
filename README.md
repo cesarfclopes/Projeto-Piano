@@ -1,4 +1,8 @@
-# Projeto de piano feito em HTML, CSS e Java Script
+#  Projeto Piano  :musical_keyboard:
 
-Projeto feito com intenção de aperfeiçoar os estudos destas linguagens
+Projeto feito com intenção de aperfeiçoar os estudos das linguagens.
+
+- HTML
+- CSS
+- Java Script
 
